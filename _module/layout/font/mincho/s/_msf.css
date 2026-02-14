@@ -1,0 +1,17 @@
+/* common.css - font settings　
+  - Safari (Macintosh)
+--------------------------------------------------------- */
+body	{ font-size:10px; font-family:"ヒラギノ明朝 Pro W3","Hiragino Mincho Pro",serif;}
+h2	{ font-family:"ヒラギノ明朝 Pro W6"; font-weight:normal;}
+h3	{ font-family:"ヒラギノ明朝 Pro W6"; font-weight:normal;}
+h4	{ font-family:"ヒラギノ明朝 Pro W6"; font-weight:normal;}
+p.lead	{ font-family:"ヒラギノ明朝 Pro W6"; font-weight:normal;}
+strong	{ font-family:"ヒラギノ明朝 Pro W6"; font-weight:normal;}
+.menu-a a,.menu-a .nolink	{ font-size:110%;}
+.menu-b a,.menu-b .nolink	{ font-size:110%;}
+.menu-c a,.menu-c .nolink	{ font-size:110%;}
+.menu-d a,.menu-d .nolink	{ font-size:110%;}
+.menu-e a,.menu-e .nolink	{ font-size:110%;}
+.menuh .menu-a a.mn1,.menuh .menu-a .nolink	{ font-size:110%;}
+.menuh .menu-b a.mn1,.menuh .menu-b .nolink	{ font-size:110%;}
+.menuh .menu-c a.mn1,.menuh .menu-c .nolink	{ font-size:110%;}

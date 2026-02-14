@@ -1,0 +1,14 @@
+/* common.css - font settings　
+  - Internet Explorer 7 (Vista)
+--------------------------------------------------------- */
+body	{ font-size:11px; font-family:"ＭＳ Ｐ明朝","MS PMINCHO",serif;}
+p	{ line-height:1.1;}
+li	{ line-height:1.2;}
+.menu-a a,.menu-a .nolink	{ font-size:100%;}
+.menu-b a,.menu-b .nolink	{ font-size:100%;}
+.menu-c a,.menu-c .nolink	{ font-size:100%;}
+.menu-d a,.menu-d .nolink	{ font-size:100%;}
+.menu-e a,.menu-e .nolink	{ font-size:100%;}
+.menuh .menu-a a.mn1,.menuh .menu-a .nolink	{ font-size:100%;}
+.menuh .menu-b a.mn1,.menuh .menu-b .nolink	{ font-size:100%;}
+.menuh .menu-c a.mn1,.menuh .menu-c .nolink	{ font-size:100%;}
